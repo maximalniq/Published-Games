@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AdmobManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RotateTriggers.cs" Line="5" Column="35" />
+      <File FileName="Assets\Scripts\BallBehaviour.cs" Line="5" Column="8" />
+      <File FileName="Assets\Scripts\Score.cs" Line="7" Column="36" />
+      <File FileName="Assets\Scripts\AdmobManager.cs" Line="61" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
